@@ -1,0 +1,13 @@
+{
+    "name": "vendor/test2",
+    "description": "Description of project Test2.",
+    "authors": [
+        {
+            "name": "ncaussin",
+            "email": "caussin@albatros-solutions.fr"
+        }
+    ],
+    "require": {
+        "psecio/jwt": "dev-master"
+    }
+}
